@@ -4,7 +4,248 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e056da5-5bf7-4569-b7e5-e3d7daaa7fcf" name="Changes" comment="" />
+    <list default="true" id="0e056da5-5bf7-4569-b7e5-e3d7daaa7fcf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/MinCostClimbingStair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/MinCostClimbingStair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/StairCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/StairCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetCode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/leetCode/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ComparatorExample/ComparatorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/ComparatorExample/ComparatorExampleArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CompletableFuture/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CompletableFuture/GetEmployee$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CompletableFuture/GetEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CompletableFuture/RunAsyncExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CompletableFuture/SupplyAsyncExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/DictationFromFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/FilterExample/EmployeeWithListOfCity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/FilterExample/FilterExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/FilterExample/FlatMapExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/GarbageCollection/GarbageCollectionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Interview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/InterviewTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/LamdaExpression/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/LamdaExpression/GenericWithLAmda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/LamdaExpression/TestInterfaceLamda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/LamdaExpression/TestLamda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/LinkedList/DoublyLinklist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/LinkedList/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/LinkedList/EmployeeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/LinkedList/EmployeeNodeForDoublyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/LinkedList/SinglyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Map/MapPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MethodOverLoandingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MethodOverloadingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/CallableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/CallableExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Computation1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Computation2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/CountDownlatchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/CyclicBarrierExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Deadlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/ExectorServiceExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/FutureExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/InterThreadCommunicationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/InterThreadCommunicationDemoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Shared.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/SimpleThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/SimpleThreadWithRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Synchronized$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Synchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/TestSynchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/ThreadDemoWithRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/MultiThreading/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Queue/QueueWithArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Serialization/Gsonexample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Serialization/SerialDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Serialization/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Serialization/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Sorting/BinarySort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Sorting/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Sorting/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Sorting/RecursionPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Sorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Ubs1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/adapter/AdapterDesignPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/adapter/ChromeDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/adapter/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/adapter/DriverAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/adapter/IEDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/factory/Android.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/factory/FactoryMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/factory/Ios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/factory/Linux.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/factory/OperatingSystemFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/designpattern/creational/factory/Os.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/dsaPattern/SlidingWindow/ConstantWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/dynamicProgramming/FibonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/dynamicProgramming/MinCostClimbingStair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/dynamicProgramming/StairCases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/CloneGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/ConnectedComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/CourseSchedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/CourseScheduleTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/GraphRepresentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/GraphValidTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/IslandAndTreasure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/MaxAreaOfIsland.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/MinPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/NumberOfIslands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/NumberOfProvinces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/PacificAtlanticWaterFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/RedundantConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/RottingFruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/SurroundedRegions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/WordLadder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/advancegraph/MinCosttoConnectPoints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/advancegraph/NetworkDelayTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/advancegraph/ReconstructFlightPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/graph/advancegraph/SwimInRisingWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/leetCode/GroupAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/leetCode/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/leetCode/ValidAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/SlidingWindow/BestTimeToBuyAndSellStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/SlidingWindow/LongestRepeatingCharacterReplacement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/SlidingWindow/LongestSubStringWithoutRepeatingCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/SlidingWindow/MinimumWindowSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/SlidingWindow/PermutationInString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/SlidingWindow/SlidingWindowMaximum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/arraysandhashing/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/arraysandhashing/GroupAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/arraysandhashing/ListOfStringEncodeDecode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/arraysandhashing/LongestConsecutiveSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/arraysandhashing/ProductOfArrayExpectSelf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/arraysandhashing/TopKElementUsingBucketSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/arraysandhashing/TopKFrequentElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/arraysandhashing/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/arraysandhashing/ValidSudoku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/CombinationSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/CombinationSum2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/GenerateParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/LetterCombinationsOfAPhoneNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/NQueen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/PalindromePartitioning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/Permutations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/SubSetWithSumCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/Subset2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/SubsetWithOnlyOneSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/SubsetWithSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/Subsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/backtracking/WordSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/binarySearch/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/binarySearch/FindMinimumInRotatedSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/binarySearch/KokoEatingBananas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/binarySearch/MedianOfTwoSortedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/binarySearch/SearchA2DMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/binarySearch/SearchInRotatedSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/binarySearch/TimeBasedKeyValueStore$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/binarySearch/TimeBasedKeyValueStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/heapPriorityQueue/DesignTwitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/heapPriorityQueue/FindMedianFromDataStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/heapPriorityQueue/KClosestPointsToOrigin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/heapPriorityQueue/KthLargestElementInAStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/heapPriorityQueue/KthLargestElementInAnArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/heapPriorityQueue/LastStoneWeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/heapPriorityQueue/TaskScheduler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/CopyLinkedListWithRandomPointer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/FindTheDuplicateNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/LRUCache$LRUNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/LinkedListCycleDetection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/MergeKSortedLinkedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/MergeTwoSortedLinkedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/RemoveNodeFromEndofLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/ReorderLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/ReverseLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/ReverseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/linkedList/ReverseNodesInKGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/stack/CarFleet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/stack/DailyTemperatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/stack/EvaluateReversePolishNotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/stack/LargestRectangleInHistogram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/stack/MinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/stack/ValidParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/BalancedBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/BinaryTreeLevelOrderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/BinaryTreeMaximumPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/BinaryTreeRightSideView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/BuildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/CountGoodNodesInBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/DiameterOfBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/InvertBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/KthSmallestIntegerInBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/LowestCommonAncestorInBinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/MaximumDepthOfBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/PrintNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/SameBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/SerializeAndDeserializeBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/SubTreeOfAnotherTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tree/ValidBinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tries/PrefixTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tries/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tries/WordDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/tries/WordSearchII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/twopointer/ContainerWithMostWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/twopointer/ThreeIntegerSun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/twopointer/TrappingRainWater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/twopointer/TwoIntegerSum2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/neetcode/twopointer/ValidPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/overLoading1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/overLoading2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/overLoading3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/FibonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/RecursionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/SumOfNaturalNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/CalculateMean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/CheckPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/DecimalToBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/FactorialOfANumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/FibbonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/FibonacciSeriesReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/LengthOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/MinAndMaxOfAnArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/Print1toN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/PrintNameNtimes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/PrintNto1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/SumOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/recursion/easy/SumOfNaturalNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/singletone/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/singletone/SingletoneExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/stack/LinkedStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/stringProblems/Paliendrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/stringProblems/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/stringProblems/ReverseWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/test/C1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/test/C2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/test/C3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/test/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/tree/BinaryTree/BuildBinaryTree$BinaryNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/tree/BinaryTree/BuildBinaryTree$BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/tree/BinaryTree/BuildBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strive/sheet/Arrays/SetZeroMatrixBootForce.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,39 +259,62 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;saumyadippackray&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/saumyadippackray/Practice.git&quot;,
+    &quot;accountId&quot;: &quot;423f72db-8a6d-410d-a8ce-1ca5e25eb2c4&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="2NKX62KwttdlV05w0QOICDS58Iz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/saumy/OneDrive/Documents/jwt&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiCallExample.executor": "Run",
+    "Application.HouseRobber2.executor": "Run",
+    "Application.JumpGame.executor": "Run",
+    "Application.JumpGameII.executor": "Debug",
+    "Maven.Practice [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/saumy/OneDrive/Desktop/kafka-with-spring/cab-book-driver",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
-  <component name="RunManager" selected="Application.CourseSchedule">
-    <configuration name="CourseSchedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.graph.CourseSchedule" />
+}]]></component>
+  <component name="RunManager" selected="Application.HouseRobber2">
+    <configuration name="ApiCallExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.CompletableFuture.ApiCallExample" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.graph.*" />
+          <option name="PATTERN" value="org.example.CompletableFuture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +322,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IslandAndTreasure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.graph.IslandAndTreasure" />
+    <configuration name="HouseRobber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dynamicProgramming.HouseRobber2" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.graph.*" />
+          <option name="PATTERN" value="org.example.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PacificAtlanticWaterFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.graph.PacificAtlanticWaterFlow" />
+    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dynamicProgramming.JumpGame" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.graph.*" />
+          <option name="PATTERN" value="org.example.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RottingFruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.graph.RottingFruit" />
+    <configuration name="JumpGameII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dynamicProgramming.JumpGameII" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.graph.*" />
+          <option name="PATTERN" value="org.example.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +361,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurroundedRegions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.graph.SurroundedRegions" />
+    <configuration name="MaximumSumOfNonAdjacentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dynamicProgramming.MaximumSumOfNonAdjacentElements" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.graph.*" />
+          <option name="PATTERN" value="org.example.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +376,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CourseSchedule" />
-        <item itemvalue="Application.SurroundedRegions" />
-        <item itemvalue="Application.PacificAtlanticWaterFlow" />
-        <item itemvalue="Application.RottingFruit" />
-        <item itemvalue="Application.IslandAndTreasure" />
+        <item itemvalue="Application.HouseRobber2" />
+        <item itemvalue="Application.JumpGameII" />
+        <item itemvalue="Application.JumpGame" />
+        <item itemvalue="Application.ApiCallExample" />
+        <item itemvalue="Application.MaximumSumOfNonAdjacentElements" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -130,6 +402,9 @@
       <updated>1679413571466</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -151,353 +426,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Sorting/MergeSort.java</url>
-          <line>73</line>
+          <line>42</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/arraysandhashing/GroupAnagrams.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/arraysandhashing/TopKFrequentElements.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/recursion/easy/DecimalToBinary.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/recursion/easy/FibbonacciSeries.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/arraysandhashing/ListOfStringEncodeDecode.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/arraysandhashing/ListOfStringEncodeDecode.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/arraysandhashing/ListOfStringEncodeDecode.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/arraysandhashing/ProductOfArrayExpectSelf.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/twopointer/TwoIntegerSum2.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/twopointer/TwoIntegerSum2.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/twopointer/ThreeIntegerSun.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/twopointer/ThreeIntegerSun.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/twopointer/ContainerWithMostWater.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/SlidingWindow/BestTimeToBuyAndSellStock.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/SlidingWindow/LongestSubStringWithoutRepeatingCharacters.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/SlidingWindow/LongestRepeatingCharacterReplacement.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/SlidingWindow/SlidingWindowMaximum.java</url>
-          <line>85</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/SlidingWindow/SlidingWindowMaximum.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/stack/DailyTemperatures.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/stack/CarFleet.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/binarySearch/FindMinimumInRotatedSortedArray.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/binarySearch/FindMinimumInRotatedSortedArray.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/binarySearch/FindMinimumInRotatedSortedArray.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/binarySearch/KokoEatingBananas.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="104" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/LinkedListCycleDetection.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="109" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/ReorderLinkedList.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="110" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/CopyLinkedListWithRandomPointer.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="114" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/CopyLinkedListWithRandomPointer.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/CopyLinkedListWithRandomPointer.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="116" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/AddTwoNumbers.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/AddTwoNumbers.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/LRUCache.java</url>
-          <line>69</line>
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/LRUCache.java</url>
-          <line>90</line>
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/linkedList/MergeTwoSortedLinkedLists.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/SameBinaryTree.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/SameBinaryTree.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="132" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/SameBinaryTree.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="133" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/SameBinaryTree.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/SameBinaryTree.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="135" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/SameBinaryTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/JumpGameII.java</url>
           <line>17</line>
-          <option name="timeStamp" value="136" />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/SubTreeOfAnotherTree.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="138" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/BinaryTreeLevelOrderTraversal.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/BinaryTreeRightSideView.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="140" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tree/CountGoodNodesInBinaryTree.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="141" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/heapPriorityQueue/LastStoneWeight.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/heapPriorityQueue/TaskScheduler.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/heapPriorityQueue/TaskScheduler.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/heapPriorityQueue/FindMedianFromDataStream.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/heapPriorityQueue/FindMedianFromDataStream.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="147" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/backtracking/SubsetWithOnlyOneSum.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="153" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Sorting/MergeSort.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="154" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Sorting/MergeSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dynamicProgramming/JumpGameII.java</url>
           <line>19</line>
-          <option name="timeStamp" value="155" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tries/WordDictionary.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="156" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tries/WordDictionary.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="157" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/neetcode/tries/WordSearchII.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/GraphRepresentation.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/NumberOfProvinces.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/NumberOfProvinces.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="161" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/NumberOfIslands.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="162" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/NumberOfIslands.java</url>
-          <line>64</line>
-          <option name="timeStamp" value="163" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/IslandAndTreasure.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="164" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/IslandAndTreasure.java</url>
-          <line>87</line>
-          <option name="timeStamp" value="165" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/IslandAndTreasure.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="166" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/RottingFruit.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="168" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/RottingFruit.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="169" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/SurroundedRegions.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="176" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/SurroundedRegions.java</url>
-          <line>87</line>
-          <option name="timeStamp" value="177" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/SurroundedRegions.java</url>
-          <line>101</line>
-          <option name="timeStamp" value="178" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/SurroundedRegions.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="180" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/MultiThreading/InterThreadCommunicationDemo.java</url>
@@ -508,29 +448,11 @@
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/graph/PacificAtlanticWaterFlow.java</url>
-          <line>44</line>
-          <properties class="org.example.graph.PacificAtlanticWaterFlow" method="bfs">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="170" />
-        </line-breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.NullPointerException" package="java.lang" />
-          <option name="timeStamp" value="125" />
-        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Practice$LargestRectangleInHistogram.ic" NAME="LargestRectangleInHistogram Coverage Results" MODIFIED="1763361375309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>org.example.neetcode.stack.*</FILTER>
-    </SUITE>
   </component>
 </project>

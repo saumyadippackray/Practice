@@ -10,5 +10,6 @@
         <module name="Practice" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="21" />
   </component>
 </project>

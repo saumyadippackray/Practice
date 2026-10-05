@@ -7,7 +7,7 @@ public class MinCostClimbingStair {
         int[] cost={1,2,1,2,1,1,1};
 
         MinCostClimbingStair minCostClimbingStair=new MinCostClimbingStair();
-        System.out.println(minCostClimbingStair.minCostClimbingStairsIterative(cost));
+        System.out.println(minCostClimbingStair.minCostClimbingStairs(cost));
     }
     public int minCostClimbingStairs(int[] cost) {
         int[] cache=new int[cost.length];
